@@ -69,7 +69,7 @@
 				</div>
 			</div>
 			<div class="card">
-				<img class="card-img-top" src="/images/robert.png" alt="Image of Robert">
+				<img class="card-img-top" src="/images/robert.png" alt="Image of Bobert">
 				<div class="card-body">
 					<p class="card-text">Nothing wrong with washing your brush. La- da- da- da- dah. Just be happy. Imagination is the key to painting.</p>
 				</div>

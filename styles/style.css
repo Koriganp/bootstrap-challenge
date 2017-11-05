@@ -36,6 +36,11 @@ img[alt*="rattlesnake"] {
 	width: 12rem
 }
 
+img[alt*="Image of Bo"] {
+	border-radius: 50%;
+	border: none;
+}
+
 .footer {
 	padding: 2rem;
 }
