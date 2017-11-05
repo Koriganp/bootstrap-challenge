@@ -13,28 +13,73 @@
 		<title>Bootstrap Challenge</title>
 	</head>
 	<body>
-		<nav class="nav justify-content-end">
-			<a class="nav-item nav-link active">Title</a>
-			<a class="nav-item nav-link" href="#">Link1</a>
-			<a class="nav-item nav-link" href="#">Link2</a>
-			<a class="nav-item nav-link" href="#">Link3</a>
-			<a class="nav-item nav-link" href="#">Link4</a>
+		<nav class="navbar navbar-expand-lg navbar-light bg-light text-secondary border border-dark">
+			<a class="navbar-brand" href="#">Title</a>
+			<div class="collapse navbar-collapse">
+				<ul class="navbar-nav justify-content-end">
+					<li class="nav-item">
+						<a class="nav-link" href="#">Link1</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">Link2</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">Link3</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">Link4</a>
+					</li>
+				</ul>
+			</div>
 		</nav>
-		<header class="info">
+		<header class="title">
 			<div class="jumbotron">
-			<h1 class="display-4">Hello, world!</h1>
-			<p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
-			<button class="btn btn-primary btn-lg">Learn more</button>
+				<h1 class="display-3">Hello, world!</h1>
+				<p class="lead">This is a simple hero unit, a simple jumbotron-style component for
+					calling extra attention to featured content or information.</p>
+				<p class="lead">
+					<a class="btn btn-primary btn-lg" href="#!" role="button">Learn More</a>
+				</p>
 			</div>
 		</header>
-		<div class="container">
-			<div>
-				<img src="images/rattlesnake.jpg" alt="Image of a rattlesnake"/>
+		<section class="info">
+			<div class="container">
+				<div class="row">
+					<div class="col-4">
+						<img src="images/rattlesnake.jpg" alt="Image of a rattlesnake"/>
+					</div>
+					<div class="col-8">
+						<p>You can do anything your heart can imagine. Trees grow however makes them happy. Put your feelings into it, your heart, it's your world. I thought today we would make a happy little stream that's just running through the woods here. Only eight colors that you need. Anytime you learn something your time and energy are not wasted. Isn't that fantastic that you can create an almighty tree that fast?</p>
+						<p>In your world you have total and absolute power. That's a son of a gun of a cloud. Nice little clouds playing around in the sky. And that's when it becomes fun - you don't have to spend your time thinking about what's happening - you just let it happen. Paint anything you want on the canvas. Create your own world. We want to use a lot pressure while using no pressure at all.</p>
+					</div>
+				</div>
 			</div>
-			<div>
-				<p>You can do anything your heart can imagine. Trees grow however makes them happy. Put your feelings into it, your heart, it's your world. I thought today we would make a happy little stream that's just running through the woods here. Only eight colors that you need. Anytime you learn something your time and energy are not wasted. Isn't that fantastic that you can create an almighty tree that fast?</p>
-				<p>In your world you have total and absolute power. That's a son of a gun of a cloud. Nice little clouds playing around in the sky. And that's when it becomes fun - you don't have to spend your time thinking about what's happening - you just let it happen. Paint anything you want on the canvas. Create your own world. We want to use a lot pressure while using no pressure at all.</p>
+		</section>
+		<section class="card-deck">
+			<div class="card">
+				<img class="card-img-top" src="/images/bob.jpg" alt="Image of Bob">
+				<div class="card-body">
+					<p class="card-text">Every day I learn. Everything is happy if you choose to make it that way. That's a son of a gun of a cloud. There we go.</p>
+				</div>
 			</div>
-		</div>
+			<div class="card">
+				<img class="card-img-top" src="/images/bobby.jpg" alt="Image of Bobby">
+				<div class="card-body">
+					<p class="card-text">Every day I learn. Everything is happy if you choose to make it that way. That's a son of a gun of a cloud. There we go.</p>
+				</div>
+			</div>
+			<div class="card">
+				<img class="card-img-top" src="/images/robert.jpg" alt="Image of Robert">
+				<div class="card-body">
+					<p class="card-text">Nothing wrong with washing your brush. La- da- da- da- dah. Just be happy. Imagination is the key to painting.</p>
+				</div>
+			</div>
+			<div class="card">
+				<img class="card-img-top" src="/images/bobbette.jpg" alt="Image of Bobbette">
+				<div class="card-body">
+					<p class="card-text">Just go back and put one little more happy tree in there. We don't have to be concerned about it. We just have to let it fall where it will.</p>
+				</div>
+			</div>
+		</section>
 	</body>
 </html>

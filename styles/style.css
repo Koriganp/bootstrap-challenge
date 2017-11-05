@@ -1,0 +1,14 @@
+.navbar {
+	padding: 3rem;
+}
+
+.title {
+	padding: 3rem;
+}
+
+.info {
+	background-color: silver;
+}
+img[alt*="rattlesnake"] {
+	width: 80%;
+}
