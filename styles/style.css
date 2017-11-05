@@ -2,20 +2,38 @@
 	margin: 3rem;
 }
 
+.navbar-brand {
+	float: left;
+}
+
+nav div ul li {
+	float: right;
+}
+
 .title {
 	padding: 3rem;
 }
 
 .info {
+	padding: 3rem;
 	background-color: silver;
 }
+
 img[alt*="rattlesnake"] {
-	width: 80%;
-	margin-top: 1rem;
+	width: 100%;
+	margin-top: 2rem;
+}
+
+.col-9 {
+	padding-left: 10rem;
 }
 
 .card-deck {
 	margin: 2rem auto;
+}
+
+.card {
+	width: 12rem
 }
 
 .footer {

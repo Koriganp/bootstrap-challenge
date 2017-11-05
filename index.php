@@ -14,10 +14,10 @@
 	</head>
 	<body>
 		<nav class="navbar navbar-expand-lg navbar-light bg-light text-secondary border border-dark">
-			<a class="navbar-brand" href="#">Title</a>
+			<a class="navbar-brand ml-auto" href="#">Title</a>
 			<div class="collapse navbar-collapse">
-				<ul class="navbar-nav justify-content-end">
-					<li class="nav-item">
+				<ul class="navbar-nav">
+					<li class="nav-item mr-auto">
 						<a class="nav-link" href="#">Link1</a>
 					</li>
 					<li class="nav-item">
@@ -45,10 +45,10 @@
 		<section class="info">
 			<div class="container">
 				<div class="row">
-					<div class="col-4">
+					<div class="col-3">
 						<img src="images/rattlesnake.jpg" alt="Image of a rattlesnake"/>
 					</div>
-					<div class="col-8">
+					<div class="col-9">
 						<p>You can do anything your heart can imagine. Trees grow however makes them happy. Put your feelings into it, your heart, it's your world. I thought today we would make a happy little stream that's just running through the woods here. Only eight colors that you need. Anytime you learn something your time and energy are not wasted. Isn't that fantastic that you can create an almighty tree that fast?</p>
 						<p>In your world you have total and absolute power. That's a son of a gun of a cloud. Nice little clouds playing around in the sky. And that's when it becomes fun - you don't have to spend your time thinking about what's happening - you just let it happen. Paint anything you want on the canvas. Create your own world. We want to use a lot pressure while using no pressure at all.</p>
 					</div>
