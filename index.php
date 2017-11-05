@@ -57,31 +57,31 @@
 		</section>
 		<section class="card-deck">
 			<div class="card">
-				<img class="card-img-top" src="/images/bob.jpg" alt="Image of Bob">
+				<img class="card-img-top" src="/images/bob.png" alt="Image of Bob">
 				<div class="card-body">
 					<p class="card-text">Every day I learn. Everything is happy if you choose to make it that way. That's a son of a gun of a cloud. There we go.</p>
 				</div>
 			</div>
 			<div class="card">
-				<img class="card-img-top" src="/images/bobby.jpg" alt="Image of Bobby">
+				<img class="card-img-top" src="/images/bobby.png" alt="Image of Bobby">
 				<div class="card-body">
 					<p class="card-text">Every day I learn. Everything is happy if you choose to make it that way. That's a son of a gun of a cloud. There we go.</p>
 				</div>
 			</div>
 			<div class="card">
-				<img class="card-img-top" src="/images/robert.jpg" alt="Image of Robert">
+				<img class="card-img-top" src="/images/robert.png" alt="Image of Robert">
 				<div class="card-body">
 					<p class="card-text">Nothing wrong with washing your brush. La- da- da- da- dah. Just be happy. Imagination is the key to painting.</p>
 				</div>
 			</div>
 			<div class="card">
-				<img class="card-img-top" src="/images/bobbette.jpg" alt="Image of Bobbette">
+				<img class="card-img-top" src="/images/bobbette.png" alt="Image of Bobbette">
 				<div class="card-body">
 					<p class="card-text">Just go back and put one little more happy tree in there. We don't have to be concerned about it. We just have to let it fall where it will.</p>
 				</div>
 			</div>
 		</section>
-		<footer class="fixed-bottom text-center">
+		<footer class="bg-dark text-center">
 			<p>You're meant to have fun in life.</p>
 		</footer>
 	</body>
