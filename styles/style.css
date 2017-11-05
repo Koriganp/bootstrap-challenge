@@ -36,7 +36,8 @@ img[alt*="rattlesnake"] {
 	width: 12rem
 }
 
-img[alt*="Image of Bo"] {
+.card img{
+	max-width: 100%;
 	border-radius: 50%;
 	border: none;
 }
