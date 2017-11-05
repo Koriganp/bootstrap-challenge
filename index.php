@@ -81,5 +81,8 @@
 				</div>
 			</div>
 		</section>
+		<footer class="fixed-bottom text-center">
+			<p>You're meant to have fun in life.</p>
+		</footer>
 	</body>
 </html>
