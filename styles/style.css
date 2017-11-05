@@ -1,5 +1,5 @@
 .navbar {
-	padding: 3rem;
+	margin: 3rem;
 }
 
 .title {
@@ -11,4 +11,13 @@
 }
 img[alt*="rattlesnake"] {
 	width: 80%;
+	margin-top: 1rem;
+}
+
+.card-deck {
+	margin: 2rem auto;
+}
+
+.footer {
+	padding: 2rem;
 }

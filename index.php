@@ -81,7 +81,7 @@
 				</div>
 			</div>
 		</section>
-		<footer class="bg-dark text-center">
+		<footer class="footer bg-dark text-light text-center">
 			<p>You're meant to have fun in life.</p>
 		</footer>
 	</body>
