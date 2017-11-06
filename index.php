@@ -74,7 +74,7 @@
 							<div class="card border-0">
 								<img class="card-img-top rounded-circle mw-100" src="images/bobby.png" alt="Image of Bobby">
 								<div class="card-body">
-									<p class="card-text border rounded p-2">Every day I learn. Everything is happy if you choose to make it that way. That's a son of a gun of a cloud. There we go.</p>
+									<p class="card-text border rounded p-2">You have to make those little noises or it won't work. That's the way I look when I get home late; black and blue.</p>
 								</div>
 							</div>
 						</div>
