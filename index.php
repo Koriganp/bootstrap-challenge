@@ -63,7 +63,7 @@
 				<div class="row">
 					<div class="card-deck">
 						<div class="col-md-3">
-							<div class="card">
+							<div class="card border-0">
 								<img class="card-img-top rounded-circle mw-100" src="images/bob.png" alt="Image of Bob">
 								<div class="card-body">
 									<p class="card-text border rounded p-2">Every day I learn. Everything is happy if you choose to make it that way. That's a son of a gun of a cloud. There we go.</p>
@@ -71,7 +71,7 @@
 							</div>
 						</div>
 						<div class="col-md-3">
-							<div class="card">
+							<div class="card border-0">
 								<img class="card-img-top rounded-circle mw-100" src="images/bobby.png" alt="Image of Bobby">
 								<div class="card-body">
 									<p class="card-text border rounded p-2">Every day I learn. Everything is happy if you choose to make it that way. That's a son of a gun of a cloud. There we go.</p>
@@ -79,7 +79,7 @@
 							</div>
 						</div>
 						<div class="col-md-3">
-							<div class="card">
+							<div class="card border-0">
 								<img class="card-img-top rounded-circle mw-100" src="images/robert.png" alt="Image of Robert">
 								<div class="card-body">
 									<p class="card-text border rounded p-2">Nothing wrong with washing your brush. La- da- da- da- dah. Just be happy. Imagination is the key to painting.</p>
@@ -87,7 +87,7 @@
 							</div>
 						</div>
 						<div class="col-md-3">
-							<div class="card">
+							<div class="card border-0">
 								<img class="card-img-top rounded-circle mw-100" src="images/bobbette.png" alt="Image of Bobbette">
 								<div class="card-body">
 									<p class="card-text border rounded p-2">Just go back and put one little more happy tree in there. We don't have to be concerned about it. We just have to let it fall where it will.</p>
