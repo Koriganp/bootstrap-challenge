@@ -15,20 +15,25 @@
 	<body>
 		<nav class="navbar navbar-default navbar-expand-md navbar-light bg-light text-secondary rounded border border-dark" role="navigation">
 			<a class="navbar-brand" href="#">Title</a>
-			<ul class="navbar-nav ml-auto">
-				<li class="nav-item">
-					<a class="nav-link" href="#">Link1</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="#">Link2</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="#">Link3</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="#">Link4</a>
-				</li>
-			</ul>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+				<ul class="navbar-nav ml-auto">
+					<li class="nav-item">
+						<a class="nav-link" href="#">Link1</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">Link2</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">Link3</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">Link4</a>
+					</li>
+				</ul>
+			</div>
 		</nav>
 		<header class="title">
 			<div class="jumbotron">
