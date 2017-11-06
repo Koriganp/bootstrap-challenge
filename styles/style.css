@@ -2,14 +2,6 @@
 	margin: 3rem;
 }
 
-.navbar-brand {
-	float: left;
-}
-
-nav div ul li {
-	float: right;
-}
-
 .title {
 	padding: 3rem;
 }
@@ -21,11 +13,7 @@ nav div ul li {
 
 img[alt*="rattlesnake"] {
 	width: 100%;
-	margin-top: 2rem;
-}
-
-.col-9 {
-	padding-left: 10rem;
+	margin-top: 1.5rem;
 }
 
 .card-deck {
@@ -33,13 +21,8 @@ img[alt*="rattlesnake"] {
 }
 
 .card {
-	width: 12rem
-}
-
-.card img{
-	max-width: 100%;
-	border-radius: 50%;
-	border: none;
+	width: 15rem;
+	margin: 4rem 0;
 }
 
 .footer {

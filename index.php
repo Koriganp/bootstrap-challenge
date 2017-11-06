@@ -13,7 +13,7 @@
 		<title>Bootstrap Challenge</title>
 	</head>
 	<body>
-		<nav class="navbar navbar-expand-lg navbar-light bg-light text-secondary border border-dark">
+		<nav class="navbar navbar-expand-lg navbar-light bg-light text-secondary rounded border border-dark">
 			<a class="navbar-brand ml-auto" href="#">Title</a>
 			<div class="collapse navbar-collapse">
 				<ul class="navbar-nav">
@@ -45,39 +45,53 @@
 		<section class="info">
 			<div class="container">
 				<div class="row">
-					<div class="col-3">
+					<div class="col-md-3">
 						<img src="images/rattlesnake.jpg" alt="Image of a rattlesnake"/>
 					</div>
-					<div class="col-9">
+					<div class="col-md-9">
 						<p>You can do anything your heart can imagine. Trees grow however makes them happy. Put your feelings into it, your heart, it's your world. I thought today we would make a happy little stream that's just running through the woods here. Only eight colors that you need. Anytime you learn something your time and energy are not wasted. Isn't that fantastic that you can create an almighty tree that fast?</p>
 						<p>In your world you have total and absolute power. That's a son of a gun of a cloud. Nice little clouds playing around in the sky. And that's when it becomes fun - you don't have to spend your time thinking about what's happening - you just let it happen. Paint anything you want on the canvas. Create your own world. We want to use a lot pressure while using no pressure at all.</p>
 					</div>
 				</div>
 			</div>
 		</section>
-		<section class="card-deck">
-			<div class="card">
-				<img class="card-img-top" src="images/bob.png" alt="Image of Bob">
-				<div class="card-body">
-					<p class="card-text">Every day I learn. Everything is happy if you choose to make it that way. That's a son of a gun of a cloud. There we go.</p>
-				</div>
-			</div>
-			<div class="card">
-				<img class="card-img-top" src="images/bobby.png" alt="Image of Bobby">
-				<div class="card-body">
-					<p class="card-text">Every day I learn. Everything is happy if you choose to make it that way. That's a son of a gun of a cloud. There we go.</p>
-				</div>
-			</div>
-			<div class="card">
-				<img class="card-img-top" src="images/robert.png" alt="Image of Robert">
-				<div class="card-body">
-					<p class="card-text">Nothing wrong with washing your brush. La- da- da- da- dah. Just be happy. Imagination is the key to painting.</p>
-				</div>
-			</div>
-			<div class="card">
-				<img class="card-img-top" src="images/bobbette.png" alt="Image of Bobbette">
-				<div class="card-body">
-					<p class="card-text">Just go back and put one little more happy tree in there. We don't have to be concerned about it. We just have to let it fall where it will.</p>
+		<section>
+			<div class="container">
+				<div class="row">
+					<div class="card-deck">
+						<div class="col-md-3">
+							<div class="card">
+								<img class="card-img-top rounded-circle mw-100" src="images/bob.png" alt="Image of Bob">
+								<div class="card-body">
+									<p class="card-text border rounded p-2">Every day I learn. Everything is happy if you choose to make it that way. That's a son of a gun of a cloud. There we go.</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="card">
+								<img class="card-img-top rounded-circle mw-100" src="images/bobby.png" alt="Image of Bobby">
+								<div class="card-body">
+									<p class="card-text border rounded p-2">Every day I learn. Everything is happy if you choose to make it that way. That's a son of a gun of a cloud. There we go.</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="card">
+								<img class="card-img-top rounded-circle mw-100" src="images/robert.png" alt="Image of Robert">
+								<div class="card-body">
+									<p class="card-text border rounded p-2">Nothing wrong with washing your brush. La- da- da- da- dah. Just be happy. Imagination is the key to painting.</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="card">
+								<img class="card-img-top rounded-circle mw-100" src="images/bobbette.png" alt="Image of Bobbette">
+								<div class="card-body">
+									<p class="card-text border rounded p-2">Just go back and put one little more happy tree in there. We don't have to be concerned about it. We just have to let it fall where it will.</p>
+								</div>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 		</section>
