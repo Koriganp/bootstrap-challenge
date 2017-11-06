@@ -13,24 +13,22 @@
 		<title>Bootstrap Challenge</title>
 	</head>
 	<body>
-		<nav class="navbar navbar-expand-lg navbar-light bg-light text-secondary rounded border border-dark">
-			<a class="navbar-brand ml-auto" href="#">Title</a>
-			<div class="collapse navbar-collapse">
-				<ul class="navbar-nav">
-					<li class="nav-item mr-auto">
-						<a class="nav-link" href="#">Link1</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#">Link2</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#">Link3</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#">Link4</a>
-					</li>
-				</ul>
-			</div>
+		<nav class="navbar navbar-default navbar-expand-md navbar-light bg-light text-secondary rounded border border-dark" role="navigation">
+			<a class="navbar-brand" href="#">Title</a>
+			<ul class="navbar-nav ml-auto">
+				<li class="nav-item">
+					<a class="nav-link" href="#">Link1</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#">Link2</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#">Link3</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#">Link4</a>
+				</li>
+			</ul>
 		</nav>
 		<header class="title">
 			<div class="jumbotron">
